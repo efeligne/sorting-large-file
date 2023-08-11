@@ -1,0 +1,8 @@
+{
+  "tempDir": "docs/tmp",
+  "sortedFile": "docs/sorted.txt",
+  "unsortedFile": "docs/unsorted.txt",
+  "largeFileSize": 100000000,
+  "maxBufferSize": 35000000,
+  "stringLength": 100
+}
